@@ -5,6 +5,7 @@ This repository contains research work on measuring optical properties of water 
 
 
 ## Physical Principles
+![physics-diagram](https://github.com/user-attachments/assets/990bde33-84d3-41f0-a88a-42b532d20442)
 
 ### Remote Sensing Reflectance (Rrs)
 Remote sensing reflectance (Rrs) is defined as:
