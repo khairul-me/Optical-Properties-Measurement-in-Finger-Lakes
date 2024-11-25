@@ -3,6 +3,7 @@
 ## Overview
 This repository contains research work on measuring optical properties of water in Cayuga and Canandaigua Lakes using hyperspectral ocean color radiometry. The project focuses on monitoring water quality and harmful algal blooms (HABs) through advanced remote sensing techniques.
 
+
 ## Physical Principles
 
 ### Remote Sensing Reflectance (Rrs)
